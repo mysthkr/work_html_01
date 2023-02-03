@@ -1,0 +1,31 @@
+.form_table {
+}
+
+.form_table tr {
+  height: 7rem;
+}
+
+.form_table th {
+  width: 150px;
+  text-align: right;
+}
+
+.input_form {
+  width: 480px;
+  margin-left: 10px;
+}
+
+.button {
+  text-align: center;
+}
+
+.button input {
+  color: #fff;
+  font-size: 3rem;
+  background-color: #008B8B;
+  padding: 10px;
+}
+
+.button input:hover {
+  opacity: 0.5;
+}
